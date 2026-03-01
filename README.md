@@ -13,7 +13,7 @@ We'd love to collaborate with you to make Keploy great. To get started:
 
 # How to Contribute ??
 
-We welcome contributions from the community! To Contribute to Keploy Student Program Website, please follow the following steps.
+We welcome contributions from the community. To contribute to the Keploy Student Program website, follow these steps:
 
 1. Fork this Repository(by clicking Fork Icon on top right of the repository).
 
